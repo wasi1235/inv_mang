@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826472322878",
+    "project_id": "inventory-management-b412c",
+    "storage_bucket": "inventory-management-b412c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826472322878:android:21f2a2194911daacbd7e6f",
+        "android_client_info": {
+          "package_name": "com.maantheme.mobilepos.mobile_pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGAN81V5ivNR1KihSLf2A_E7RlDC0ByI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
